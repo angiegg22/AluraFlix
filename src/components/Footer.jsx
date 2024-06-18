@@ -27,7 +27,7 @@ const Footer = () =>{
                 </div>
                 
                 <img className='footer__logo' src={LogoAluraFlix} alt="Logo AluraFlix" />
-                <p className='footer__parrafo'><strong className='footer__span'>AluraFlix</strong> por <Link to='www.linkedin.com/in/rodrigo-valdez7' target='_blank'><span className='footer__span'>Rodrigo Valdez</span></Link></p>
+                <p className='footer__parrafo'><strong className='footer__span'>AluraFlix</strong> por <Link to='www.linkedin.com/in/angie-gonzalez-garcía-36492b16a/' target='_blank'><span className='footer__span'>Angie Gonzalez</span></Link></p>
         </footer>
     )
 }
